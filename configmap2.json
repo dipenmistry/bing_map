@@ -12,7 +12,7 @@
       "moduleName": "Microsoft.Maps.GeoXml",
       "moduleOptions": [
         {
-          "addLayerFromUrl": "https://raw.githubusercontent.com/dipenmistry/bing_map/master/Countries_Sample.xml",
+          "addLayerFromUrl": "https://bingmapsisdk.blob.core.windows.net/isdksamples/Countries.xml",
           "geoXmlOption": {
             "layerName": "foo",
             "_comment": "other options are autoUpdateMapView, infoboxOptions, suppressInfoboxes, visible"
