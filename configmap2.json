@@ -19,7 +19,7 @@
           }
         },
         {
-          "addLayerFromUrl": "https://raw.githubusercontent.com/dipenmistry/bing_map/master/SampleKml%20(2).kml"
+          "addLayerFromUrl": "https://bingmapsv8samples.azurewebsites.net/Common/data/kml/SampleKml.kml"
         },
         {
           "addLayerFromUrl": "https://earthquake.usgs.gov/fdsnws/event/1/query?minmagnitude=3&format=geojson",
