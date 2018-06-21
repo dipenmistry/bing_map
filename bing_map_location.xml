@@ -5,20 +5,17 @@
     <link></link>
     <description>Trailheads and campsites in the Mount Margaret area of Mount Saint Helens, WA</description>
     <mappointIntlCode>cht</mappointIntlCode>
-    
     <item>
       <title>Lakes Trailhead</title>
       <description>This is where we started our hike, just down the road from the visitor center. You could also start at the visitor center.</description>
       <geo:lat>20.5937000</geo:lat>
       <geo:long>78.9629</geo:long>
-      
-    </item>
+     </item>
     <item>
       <title>Snow Lake Camp</title>
       <description>It is Kolkata</description>
       <geo:lat>22.5726</geo:lat>
       <geo:long>88.3639</geo:long>
-      
     </item>
     <item>
       <title>mumbai</title>
@@ -48,6 +45,5 @@
    
     
     
-
   </channel>
 </rss>
