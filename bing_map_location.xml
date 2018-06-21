@@ -28,34 +28,22 @@
       <icon>http://www.dupageforest.com/images/trailActivities/Icon_hiking_32x32.png</icon>
     </item>
     <item>
-      <title>Panhandle Lake Camp</title>
-      <description>We stayed here night #2. It's not far from our first night, but allowed us time to explore the Whittier Ridge trail and swim in the lake.</description>
-      <geo:lat>46.3323506</geo:lat>
-      <geo:long>-122.11964607</geo:long>
+      <title>delhi</title>
+      <description>It is Delhi</description>
+      <geo:lat>28.7041</geo:lat>
+      <geo:long>77.1025</geo:long>
     </item>
     <item>
-      <title>Obscurity Lake</title>
-      <description>My favorite part of the trail was in this area. Great views and the sound of coyotes off in the distance.</description>
-      <geo:lat>46.333298856</geo:lat>
-      <geo:long>-122.11295128</geo:long>
+      <title>Bangaluru</title>
+      <description>It is Bangaluru</description>
+      <geo:lat>12.9716</geo:lat>
+      <geo:long>77.5946</geo:long>
     </item>
     <item>
-      <title>Bear Camp</title>
-      <description>Our third night, after a long hike. Incredible views of Spirit Lake and The Dome. From the pass to the east, you can see Mount Rainier, Mount Adams, Mount Hood, and Mount St. Helens: 4 volcanoes in one view!</description>
-      <geo:lat>46.3180069</geo:lat>
-      <geo:long>-122.1198177</geo:long>
-    </item>
-    <item>
-      <title>Ridge Camp</title>
-      <description>We were supposed to stay here our fourth night, but the camp was really rather depressing, hot, and we still had a good part of the day ahead of us, so we hiked on.</description>
-      <geo:lat>46.309618</geo:lat>
-      <geo:long>-122.20461845</geo:long>
-    </item>
-    <item>
-      <title>South Coldwater Trailhead</title>
-      <description>The end of our hike. We had to get from here back to our car, and it's amazing how few people (none, in fact) stop to pick up a hiker in a National Park.</description>
-      <geo:lat>46.285927348</geo:lat>
-      <geo:long>-122.25377798</geo:long>
+      <title>Patna</title>
+      <description>It is Patna</description>
+      <geo:lat>25.5941</geo:lat>
+      <geo:long>85.1376</geo:long>
     </item>
    
     
