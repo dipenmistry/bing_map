@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#">
   <channel>
-    <title>Mount Saint Helens - Mount Margaret Trail</title>
+    <title></title>
     <link></link>
-    <description>Trailheads and campsites in the Mount Margaret area of Mount Saint Helens, WA</description>
-    <mappointIntlCode>cht</mappointIntlCode>
+    <description></description>
+    <mappointIntlCode></mappointIntlCode>
     <item>
       <title>Lakes Trailhead</title>
-      <description>This is where we started our hike, just down the road from the visitor center. You could also start at the visitor center.</description>
+      <description></description>
       <geo:lat>20.5937000</geo:lat>
       <geo:long>78.9629</geo:long>
      </item>
