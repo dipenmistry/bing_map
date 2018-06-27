@@ -5,39 +5,33 @@
     
     
     <item>
-      <title>Lakes Trailhead</title>
-      <description></description>
+      
       <geo:lat>20.5937000</geo:lat>
       <geo:long>78.9629</geo:long>
      </item>
     <item>
-      <title>Snow Lake Camp</title>
-      <description>It is Kolkata</description>
+      
       <geo:lat>22.5726</geo:lat>
       <geo:long>88.3639</geo:long>
     </item>
     <item>
-      <title>mumbai</title>
-      <description>It is Mumbai</description>
+      
       <geo:lat>19.0760</geo:lat>
       <geo:long>72.8777</geo:long>
       <icon>http://www.dupageforest.com/images/trailActivities/Icon_hiking_32x32.png</icon>
     </item>
     <item>
-      <title>delhi</title>
-      <description>It is Delhi</description>
+      
       <geo:lat>28.7041</geo:lat>
       <geo:long>77.1025</geo:long>
     </item>
     <item>
-      <title>Bangaluru</title>
-      <description>It is Bangaluru</description>
+      
       <geo:lat>12.9716</geo:lat>
       <geo:long>77.5946</geo:long>
     </item>
     <item>
-      <title>Patna</title>
-      <description>It is Patna</description>
+     
       <geo:lat>25.5941</geo:lat>
       <geo:long>85.1376</geo:long>
     </item>
